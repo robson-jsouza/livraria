@@ -1,0 +1,11 @@
+D:\Entrevistas\HBSIS\Livraria\Livraria.Core\bin\Debug\Livraria.Core.dll.config
+D:\Entrevistas\HBSIS\Livraria\Livraria.Core\bin\Debug\Livraria.Core.dll
+D:\Entrevistas\HBSIS\Livraria\Livraria.Core\bin\Debug\Livraria.Core.pdb
+D:\Entrevistas\HBSIS\Livraria\Livraria.Core\bin\Debug\EntityFramework.dll
+D:\Entrevistas\HBSIS\Livraria\Livraria.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Entrevistas\HBSIS\Livraria\Livraria.Core\bin\Debug\EntityFramework.xml
+D:\Entrevistas\HBSIS\Livraria\Livraria.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Entrevistas\HBSIS\Livraria\Livraria.Core\obj\Debug\Livraria.Core.dll
+D:\Entrevistas\HBSIS\Livraria\Livraria.Core\obj\Debug\Livraria.Core.pdb
+D:\Entrevistas\HBSIS\Livraria\Livraria.Core\obj\Debug\Livraria.Core.Migrations.CriacaoInicial.resources
+D:\Entrevistas\HBSIS\Livraria\Livraria.Core\obj\Debug\Livraria.Core.csproj.GenerateResource.Cache
